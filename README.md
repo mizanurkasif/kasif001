@@ -1,3 +1,3 @@
 # kasif001
 This is my first repository.
-Author _ Mizanur Rahman Kasif
+Author - Mizanur Rahman Kasif
